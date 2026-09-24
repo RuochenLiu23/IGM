@@ -12,9 +12,10 @@ The paper is currently under review. The core method implementation is released 
 
 ## Citation
 
-If you find our work helpful, we'd be glad if you cite our paper😊:
+If you find our work helpful, we'd be glad if you cite our paper:
 
-@article{liu2026end,
+```bibtex
+@article{liu2026IGM,
   title={End-to-End Cell Detection via Instance-aware Graph Modeling},
   author={Ruochen Liu and Yalin Zheng and Jingxin Liu and Jianfeng Zhang and Shoujun Huang and Dexing Kong and Haofeng Li and Wei Lou},
   journal={arXiv preprint arXiv:2609.15354},
