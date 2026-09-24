@@ -21,7 +21,3 @@ If you find our work helpful, we'd be glad if you cite our paper:
   journal={arXiv preprint arXiv:2609.15354},
   year={2026}
 }
-
-
-
-
