@@ -8,9 +8,9 @@ We propose an end-to-end framework for cell detection and classification via an 
 
 In contrast to such two-stage methods, our framework jointly optimizes graph learning and detection under a unified loss, modeling patch-level visual representations and instance-level interactions without stage-wise tuning.
 
-# The paper is currently under review. The core method implementation is released at this stage. The full code will be publicly available upon acceptance.
+Our implementation is built upon [MMDetection](https://github.com/open-mmlab/mmdetection). Many thanks for this excellent work!
 
-Our implementation is built upon [MMDetection]<https://github.com/open-mmlab/mmdetection>. Many thanks for this excellent work!
+## The paper is currently under review. The core method implementation is released at this stage. The full code will be publicly available upon acceptance.
 
 ## Citation
 
