@@ -10,6 +10,17 @@ In contrast to such two-stage methods, our framework jointly optimizes graph lea
 
 The paper is currently under review. The core method implementation is released at this stage. The full code will be publicly available upon acceptance.
 
+## Citation
+
+If you find our work helpful, we'd be glad if you cite our paper😊:
+
+@article{liu2026end,
+  title={End-to-End Cell Detection via Instance-aware Graph Modeling},
+  author={Ruochen Liu and Yalin Zheng and Jingxin Liu and Jianfeng Zhang and Shoujun Huang and Dexing Kong and Haofeng Li and Wei Lou},
+  journal={arXiv preprint arXiv:2609.15354},
+  year={2026}
+}
+
 
 
 
